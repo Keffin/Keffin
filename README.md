@@ -6,6 +6,7 @@ I’m a 5th year student at the Computer Science programme at Uppsala University
 
 
 ![Kevin](carbon.png)
+<img src="carbon.png">
 
 - 🌱 I'm currently learning more about dynamic web development and game programming.
 
