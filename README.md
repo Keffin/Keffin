@@ -1,15 +1,8 @@
 # Hi, I'm Kevin 👨🏻‍💻
+
 [![LinkedIn Badge](https://img.shields.io/badge/-Kevin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-alemi-61bb5814b/hav/)](https://www.linkedin.com/in/kevin-alemi-61bb5814b/hav/) [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-important?style=flat-square&link=mailto:kevin.alemi97@gmail.com)](mailto:kevin.alemi97@gmail.com)
 
-I’m a 5th year student at the Computer Science programme at Uppsala University with a genuine interest in technology and mathematics. 
-
-
-- 🌱 I'm currently learning more about dynamic web development and game programming.
-
-
-![](https://github.com/Keffin/Keffin/blob/master/about.png)
-
-
+I'm a software engineer based in Sweden. Currently working within the fintech industry.
 
 <!--
 **Keffin/Keffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
